@@ -1,7 +1,7 @@
 # TradeVision AI Configuration File
 
 # API Keys (Replace with your own keys)
-ALPHA_VANTAGE_API_KEY = "your_api_key_here"
+ALPHA_VANTAGE_API_KEY = "NGEJXZ102ETVK53Z"
 BINANCE_API_KEY = "your_binance_api_key"
 BINANCE_SECRET_KEY = "your_binance_secret"
 
